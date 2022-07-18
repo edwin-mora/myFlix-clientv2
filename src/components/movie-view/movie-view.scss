@@ -1,0 +1,37 @@
+
+*{
+    background-color: cornsilk;
+}
+
+#button-main{
+    background-color: darkseagreen;
+    border: none;
+}
+
+#button-main:hover{
+    background-color: seagreen;
+}
+
+#genre-dir-link:hover{
+    color: seagreen;
+}
+
+#poster{
+    width: 50%;
+    height: 1;
+    margin-left: 250px;
+}
+
+#movie-view-card{
+    background-color: cornsilk;
+}
+
+#fav-button{
+    background-color: darkseagreen;
+    border: none;
+    margin-left: 12px;
+}
+
+#fav-button:hover{
+    background-color: seagreen;
+}
