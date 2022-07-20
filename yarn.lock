@@ -2591,7 +2591,7 @@
     "ssri" "^9.0.0"
     "tar" "^6.1.11"
 
-"parcel@^2.0.0-rc.0":
+"parcel@^2.6.2":
   "integrity" "sha512-q6hrD3rm9M4S/VBVTcOs3pl55cnRwWfco7n8hZoAqnInWjWB+Khu92LRBMerMBTdE15Y+lJhWrXNdimDYstfhQ=="
   "resolved" "https://registry.npmjs.org/parcel/-/parcel-2.6.2.tgz"
   "version" "2.6.2"
@@ -3091,6 +3091,8 @@
   "version" "0.1.8"
 
 "string_decoder@^1.1.1":
+  "integrity" "sha512-hkRX8U1WjJFd8LsDJ2yQ/wWWxaopEsABU1XfkM8A+j0+85JAGppt16cr1Whg6KIbb4okU6Mql6BOj+uup/wKeA=="
+  "resolved" "https://registry.npmjs.org/string_decoder/-/string_decoder-1.3.0.tgz"
   "version" "1.3.0"
   dependencies:
     "safe-buffer" "~5.2.0"
