@@ -8,7 +8,7 @@
   "scripts": {
     "test": "l",
     "start": "parcel",
-    "build": "parcel build",
+    "build": "parcel build index.html",
     "cleanup": "rm -rf .parcel-cache dist",
     "dev": "npm run cleanup && parcel src/index.html"
   },
@@ -43,6 +43,7 @@
     "redux-devtools-extension": "^2.13.9"
   },
   "devDependencies": {
-    "@parcel/transformer-sass": "^2.0.0-rc.0"
+    "@parcel/transformer-sass": "^2.0.0-rc.0",
+    "parcel-bundler": "^1.12.5"
   }
 }
